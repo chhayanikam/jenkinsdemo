@@ -10,7 +10,7 @@ for(int i=0;i<2;i++)
 	}
 	else
 	{
-		build 'Declarative pipeline'
+		build 'PipeScript1'
 		echo 'Running on Stage #1'
 	}
 
